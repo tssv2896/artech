@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>Maven-release</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
+			<id>ARTECH</id>
+			<url>http://localhost:8081/nexus/content/repositories/ARTECH/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
+			<id>ARTECH_SNAPSHOT</id>
+			<url>http://localhost:8081/nexus/content/repositories/ARTECH_SNAPSHOT/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
